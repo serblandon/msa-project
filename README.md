@@ -1,4 +1,4 @@
-# Job Listing Web App  
+# JobSafari  
 ### Welcome to our Job Listing Web App! This project is designed to simplify the job search process with a user-friendly interface and essential features.  
   
 ## Features (TBD)  
